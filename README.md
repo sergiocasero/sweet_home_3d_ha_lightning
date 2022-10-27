@@ -1,6 +1,6 @@
 # **The Goal**
 
-
+![](https://raw.githubusercontent.com/sergiocasero/sweet_home_3d_ha_lightning/4cec94df862243a56d92aab098432e7bb9f4a94a/media/sample.mp4)
 
 The goal of this plugin is to generate all the possible combinations of images of a plane created in Sweet Home 3D to, in real time, see the status of the lights in the home assistant.
 
