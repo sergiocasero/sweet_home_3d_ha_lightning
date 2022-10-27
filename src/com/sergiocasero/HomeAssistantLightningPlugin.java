@@ -128,7 +128,7 @@ public class HomeAssistantLightningPlugin extends Plugin {
             List<Float> in1 = new ArrayList<>();
             List<Float> in2 = new ArrayList<>();
             
-            for (int i = 0;i < 10 ; i++) {
+            for (int i = 0;i < lights.size() ; i++) {
                 in1.add(0.5f);
                 in2.add(0.0f);
             } 
