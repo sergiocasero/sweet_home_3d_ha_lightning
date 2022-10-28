@@ -195,7 +195,7 @@ public class HomeAssistantLightningPlugin extends Plugin {
                 	name += list.get(i) == 0.0 ? "off" : "on";
                 	
                 	HomeLight light = (HomeLight) lights.get(i);
-                	light.setPitch(list.get(i));
+                	//light.setPitch(list.get(i));
                 	light.setPower(list.get(i));
                 	currentLights.add(light);
 				}
