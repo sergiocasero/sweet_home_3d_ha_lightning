@@ -1,0 +1,5 @@
+<modelVersion>4.0.0</modelVersion>
+<groupId>com.sergiocasero</groupId>
+<artifactId>HomeAssistantLightningPlugin</artifactId>
+<version>0.1.0-SNAPSHOT</version>
+<packaging>jar</packaging>
