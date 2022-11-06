@@ -6,7 +6,7 @@ The goal of this plugin is to generate all the possible combinations of images o
 
 To achieve this we need to generate a yaml file with the structure of "picture-elements" and generate all the possible combinations of images based on the lights, for example, if we have 3 lights "living_room, kitchen, bed_room", we need to generate:
 
-| light.living_room | light.kitchen | light.beedrom |
+| light.living_room | light.kitchen | light.bedroom |
 | ------------ | ------------ | ------------ |
 | 0 | 0 | 0 |
 | 0 | 0 | 1 |
