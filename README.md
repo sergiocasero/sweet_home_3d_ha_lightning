@@ -20,7 +20,7 @@ To achieve this we need to generate a yaml file with the structure of "picture-e
 As we can see, for 3 lights, there are 2^3 possible combinations, if we have 10 lights, there would be 2^10 combinations -> 1024 images... and **we don't want to generate all the images manually!!**
 
 # **How to use it:**
-1. Download the latest release in .jar and copy to Sweet Home 3D "plugins" folder
+1. Download the latest release in .jar and copy to Sweet Home 3D "plugins" folder (under MACOS it's the subfolder "Library/Application Support/eTeks/Sweet Home 3D/plugins" of your user folder)
 2. Give the lights the same name as in Home Assistant, for example, light.living_room
 3. Go to Tools -> Home Assistant Lightning
 4. There are 4 modifiable fields:
